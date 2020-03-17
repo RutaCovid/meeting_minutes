@@ -1,0 +1,53 @@
+﻿Kickoff meeting  2020-03-16 
+Temas tratados: 
+Institutos importantes en MX: 
+   * Secretaria de salud
+      * Ellos van a coordinar con actor privado y 
+   * INBRE
+      * Instituto que ayuda a conglomerar toda la parte técnologica en epidemias. 
+   * Unidad de vigilancia microbiología 
+      * Directamente con la ONU
+      * Centro de vigilengcia domestico 
+   * INER: 
+      * Todos los doctores se van a canalizar ahí 
+      * Lo canalizaron como caso sospechoso y lo mandaron para allá. 
+      * Todos concentrados en un lugar con tapabocas. 
+      * Es muy ineficiente y muchas personas se van. 
+      * Silvia tiene contacto con INER? 
+   * Secretaria de salud
+   * UNAM
+Proceso del INER de contingencia: 
+* Cuando una persona tiene indicios de COVID19 o viene de un pais con infección alta
+* Toma contacto y dirección 
+* Te ponen en cuarentena
+* Y se pone en contacto contigo para ver que onda cada X tiempo 
+Concerns: 
+* Misinformation? 
+   * El gobierno no sabe que hacer y como comunicar 
+   * El Gob tarda mucho tiempo, mal periodismo, alarmista. 
+* No podemos aplicar todas las medidas en otros paises que se apliquen en México (dada la fase actual en MX). Necesitamos con base en eso compartir y alzar la voz. Lo que no queremos es reestringir la actividad ecónomica. 
+* Problema de respiradores 
+IDEAS/RANDOM: 
+* Conseguir estrategias de inversión privada? 
+* Crear un plan de contingencia
+Next Steps/Action Items: 
+Vamos a dividir este proyecto en tres frentes
+Crear un mapa estratégico de lo que ya se está haciendo: 
+* Secuencio del GENOMA virus en México (evolución) 
+   * Que actividades en la microbologia se están haciendo? 
+   * Ya se está modelando como va a modelar?
+* Crear un mapa de recursos? 
+   1. Grilla de información sobre cada hospital? (Ir a X o Y hospital? O bien dirigirse directo a hospitales privados) 
+      1. Cuanto cuesta en cada uno
+   2. En donde tenemos ICU
+   3. En donde tenemos respiradores
+   4. A donde ir para informarte? 
+Action items de la junta: 
+* Establecer perfiles de public policy (canal de comunicación). Que tipos de actividades se están haciendo a nivel privado y público? 
+* Hacer un mapa estrategíco de lo que yA se está haciendo para no reiinventar la rueda. 
+* Contactar al Dr. Gustavo (predicción del brote) 
+* Contactar a la Dra. 
+* Buscar a un evangelizador en cada uno de los órganos gubernamentales para tener fondo con esta iniciativa. 
+* Contactar a la Dra. Rosa María Wong Chew - Jefa de Investigación UNAM
+* Conseguir a una persona con background de microbiología que nos pueda informar en la parte cientifica del problema. 
+* Empezar a crear un datalake o un lugar para recolectar información importante (del virus y de los  recursos para combatirlo)
